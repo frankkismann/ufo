@@ -4,6 +4,6 @@ Demo de video juego de plataformas, sin motor o engine de física, sino que util
 # Directorios
 La demostración cuenta con los siguientes directorios:
 
-* imagenes -> contiene fondos y hojas de sprite para la animación del personaje principal y objetos en el juego
-* js -> toda la lógica del juego está aquí. Las funciones principales, la manipulación de teclado, el control de sonido y la detección de colisiones están controladas aquí.
-* sonido -> almacenamiento de archivos mp3 para los efectos de sonido dentro de la demostración.
+* imagenes: contiene fondos y hojas de sprite para la animación del personaje principal y objetos en el juego
+* js: toda la lógica del juego está aquí. Las funciones principales, la manipulación de teclado, el control de sonido y la detección de colisiones están controladas aquí.
+* sonido: almacenamiento de archivos mp3 para los efectos de sonido dentro de la demostración.
