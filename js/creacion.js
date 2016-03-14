@@ -1,4 +1,5 @@
 function comienzo() {
+    creaSonidos();
     inicioVariablesGlobales();
     creaEtapa();
     creaFondo();
